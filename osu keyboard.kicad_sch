@@ -1702,7 +1702,7 @@
     (property "Reference" "C3" (id 0) (at 41.91 73.6662 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Small" (id 1) (at 41.91 76.2062 0)
+    (property "Value" "1uF" (id 1) (at 41.91 76.2062 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 39.37 74.93 0)
@@ -2511,7 +2511,7 @@
       (reference "C2") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/332dd123-7a8f-4d5b-afc7-271f8484b7c3"
-      (reference "C3") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C3") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/f24c34fa-3957-4d04-998c-9ce6fa0302c1"
       (reference "C4") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
